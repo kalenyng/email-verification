@@ -5,6 +5,11 @@
 
 This PHP-based email verification system allows you to manage user registrations and verify email addresses through a secure token-based mechanism. It includes features for user registration, email verification, and contact form handling. ✉️✅
 
+## Live-preview
+
+https://email-verification-tester.infy.uk/
+
+
 ---
 
 ## Features
